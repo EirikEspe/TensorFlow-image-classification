@@ -19,6 +19,6 @@ to evaluate how accurately the network learned to classify images.
 | 4     | Coat          |
 | 5     | Sandal        |
 | 6     | Shirt         |
-| 7     | Snaeaker      |
+| 7     | Sneaker      |
 | 8     | Bag           |
 | 9     | Ankle boot    |
